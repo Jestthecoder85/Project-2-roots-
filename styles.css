@@ -1,0 +1,38 @@
+.container-fluid {
+	background-color: teal;
+}
+.main-image	{
+	width: 50%;
+	border: 15px;
+}
+.section1, .section2, .section5, .section6{
+	background-color: grey;
+}
+.section3, .section4 {
+	background-color: lightgrey;
+}
+.card-img-top {
+	height: 150px; 
+	max-width: 105%;
+	object-fit: cover;
+}
+.btn {
+	background-color: grey;
+}
+.navbar-brand {
+	margin-bottom: 40px;
+}
+.card-text {
+	margin-bottom: 30px;
+}
+h2, h4{
+	margin-bottom: 30px;
+}
+h5 {
+	margin-bottom: 25px;
+}
+img.card-img-top {
+	display: block;
+}
+
+
